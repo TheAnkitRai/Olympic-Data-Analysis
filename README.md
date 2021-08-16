@@ -2,7 +2,7 @@
 
 This project contains the data analysis of the [Olympic datasets](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). This datsets consist of two csv files.
 
-**This project brings out follwing analysis from the datasets : **
+**This project brings out follwing analysis from the datasets :**
 - Top 10 countries overall participation since inception.
 - Age distribution of Participants.
 - Sports Event in Summer Olympics
@@ -25,4 +25,4 @@ This project contains the data analysis of the [Olympic datasets](https://www.ka
 - Height vs Weight graph of the olympic medallists.
 
 
-**Tools Used : Python, Numpy, Pandas, Matplotlib and Seaborn **
+**Tools Used : Python, Numpy, Pandas, Matplotlib and Seaborn**
